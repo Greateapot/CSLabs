@@ -1,0 +1,12 @@
+[submodule "ArrayUtilsLib"]
+	path = ArrayUtilsLib
+	url = .\\ArrayUtilsLib\\
+[submodule "ConsoleDialogLib"]
+	path = ConsoleDialogLib
+	url = .\\ConsoleDialogLib\\
+[submodule "ConsoleIOLib"]
+	path = ConsoleIOLib
+	url = .\\ConsoleIOLib\\
+[submodule "OOP/Lab9"]
+	path = OOP/Lab9
+	url = .\\OOP\\Lab9\\
