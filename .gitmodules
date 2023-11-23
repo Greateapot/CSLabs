@@ -10,3 +10,6 @@
 [submodule "OOP/Lab9"]
 	path = OOP/Lab9
 	url = .\\OOP\\Lab9\\
+[submodule "DiscreteMath/Lab3"]
+	path = DiscreteMath/Lab3
+	url = .\\DiscreteMath\\Lab3\\
