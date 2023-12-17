@@ -7,9 +7,30 @@
 [submodule "ConsoleIOLib"]
 	path = ConsoleIOLib
 	url = .\\ConsoleIOLib\\
-[submodule "OOP/Lab9"]
-	path = OOP/Lab9
-	url = .\\OOP\\Lab9\\
 [submodule "DiscreteMath/Lab3"]
 	path = DiscreteMath/Lab3
 	url = .\\DiscreteMath\\Lab3\\
+[submodule "DiscreteMath/Lab4"]
+	path = DiscreteMath/Lab4
+	url = .\\DiscreteMath\\Lab4\\
+[submodule "OOP/Lab1"]
+	path = OOP/Lab1
+	url = .\\OOP\\Lab1\\
+[submodule "OOP/Lab3"]
+	path = OOP/Lab3
+	url = .\\OOP\\Lab3\\
+[submodule "OOP/Lab5"]
+	path = OOP/Lab5
+	url = .\\OOP\\Lab5\\
+[submodule "OOP/Lab6"]
+	path = OOP/Lab6
+	url = .\\OOP\\Lab6\\
+[submodule "OOP/Lab9"]
+	path = OOP/Lab9
+	url = .\\OOP\\Lab9\\
+[submodule "OOP/Lab10"]
+	path = OOP/Lab10
+	url = .\\OOP\\Lab10\\
+[submodule "OOP/Lab11"]
+	path = OOP/Lab11
+	url = .\\OOP\\Lab11\\
