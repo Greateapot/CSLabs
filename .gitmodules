@@ -7,12 +7,6 @@
 [submodule "ConsoleIOLib"]
 	path = ConsoleIOLib
 	url = https://github.com/Greateapot/ConsoleIOLib
-[submodule "DiscreteMath/Lab3"]
-	path = DiscreteMath/Lab3
-	url = .\\DiscreteMath\\Lab3\\ # А вот это я вам не покажу
-[submodule "DiscreteMath/Lab4"]
-	path = DiscreteMath/Lab4
-	url = .\\DiscreteMath\\Lab4\\ # и это тоже, лол
 [submodule "OOP/Lab1"]
 	path = OOP/Lab1
 	url = https://github.com/Greateapot/csharp-lab-1
